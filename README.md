@@ -24,4 +24,4 @@ For example the above code solves using the algorithm for the follwing start and
 |**row2**| 8 | 4 | 3 |
 |**row3**|  | 5 | 7 |
 
-**The code uses msiplaced tiles as heuristic function and distance from start as g function.**
+**The code uses misplaced tiles as heuristic function and distance from start as *g function.***
